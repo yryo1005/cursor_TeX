@@ -7,8 +7,9 @@
 
 例)
 ```text
-確立的勾配降下法(Stochastic Gradient Descent，SGD)
-ニューラルネットワーク(Neural Networks，NN)
+Nesterov Accelerated Gradient Method (NAG)
+確立的勾配降下法 (Stochastic Gradient Descent，SGD)
+ニューラルネットワーク (Neural Networks，NN)
 ```
   
 - 図のキャプション（\caption）は図の下，表のキャプションは表の上に配置することを徹底する． 
